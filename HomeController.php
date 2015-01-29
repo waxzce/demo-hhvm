@@ -22,7 +22,7 @@ class HomeController extends GetController {
 
   protected function renderMainColumn(): :xhp {
     return <div>
-      <h1>Cookbook</h1>
+      <h1>Cookbook from Clever Cloud</h1>
       <p>
         The Hack Cookbook helps you write Hack code by giving you examples of
         Hack code. It is written in Hack and is open source. If you
