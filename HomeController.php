@@ -33,6 +33,8 @@ class HomeController extends GetController {
         yourself. The recipes in this cookbook are small examples that
         illustrate how to use Hack to solve common and interesting problems.
       </p>
+      
+      <img src="http://photos4.meetupstatic.com/photos/event/6/d/e/7/600_432268135.jpeg" />
     </div>;
   }
 }
